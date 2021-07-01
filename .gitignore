@@ -1,4 +1,6 @@
 .vscode
+*.pdf
+*.code-workspace
 __pycache__
 Python_Learning.code-workspace
 test.py
